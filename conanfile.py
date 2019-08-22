@@ -1,7 +1,7 @@
 from conans import ConanFile, CMake
 
 
-class PrpcConan(ConanFile):
+class HeraldConan(ConanFile):
     name = "herald"
     version = "0.1"
     license = "public"
