@@ -1,4 +1,4 @@
-See the full API docs [here](https://placeholder.com).
+See the full API docs [here](https://herald.readthedocs.io/en/latest/).
 
 ## Publisher example (no error checking):
 
